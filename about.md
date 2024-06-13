@@ -9,7 +9,7 @@ permalink: /about/
 
 ### More Information
 
-https://github.com/Twytilus
+[My GitHub](https://github.com/Twytilus)
 
 ### Contact me
 
@@ -33,7 +33,10 @@ orangemortes@gmail.com
     - Teaching Biology Bachelor degree  
 
 ### Professional Experience
-
+2018-2022 | **Laboratory of Cellular and Molecular Protistology**
+    - Topic of State Assingment “Morphological and molecular aspects of evolution and diversity in protists and invertebrate metazoans”
+      PI: Doctor of Biological Sciences Olga V. Zaitseva
+      No. 122031100281-5
 
 ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
