@@ -54,13 +54,11 @@ A Kudryavtsev, E Volkova, F Voytinsky; **in preparation**
 - 2021, teachers assistant at Center of Ecology and Biology "Krestovsky ostrov" at Saint Petersburg   
 
 ### CONFERENCE
-- Benthic Ecology Meeting - NH, Portsmouth, USA 
-	- Effects of thermal stress and thermal priming on larvae of the reef 	  building coral *Pocillopora acuta*
+- 2019 The VIII European Congress of Protistology (ECOP) hosted by the Italian Society of Protistology (SIPonlus) in Rome, Poster presentation
 
 ### SKILLS 
-- PADI Advanced Open Water SCUBA Diving
-- Permis Mer – French Boating License for Coastal Waters
-- Languages – French (Native), English (Fluent oral and written)
-- Software – R/Rstudio, QGIS, Microsoft Excel/Word/Powerpoint, Adobe Photoshop, GitHub
+- Laboratory work, protist culture maintenance, PCR, light microscopy, DNA Extraction, fish necropsy
+- Languages – Russian (Native), English (Fluent oral and written)
+- Software – R/Rstudio, Microsoft Excel/Word/Powerpoint, GitHub
 
 
