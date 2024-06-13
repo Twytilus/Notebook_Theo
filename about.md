@@ -9,73 +9,31 @@ permalink: /about/
 
 ### More Information
 
-https://pierrickharnay.github.io/PierrickHarnay_Notebook/
+https://github.com/Twytilus
 
 ### Contact me
 
-[pierrick.harnay@gmail.com](mailto:Pierrick_harnay@uri.com)
+orangemortes@gmail.com
 
 
-## <center>PIERRICK E. HARNAY</center>
-<center>Department of Biological Sciences</center>
-<center>University of Rhode Island</center>
-<center>120 Flagg Road, Kingston RI 02881</center>
+## <center>Theodor Voitinskii</center>
+<center>Department of Marine Biology</center>
+<center>Haifa University</center>
+<center>199 Aba Khoushy Ave. Mount Carmel, Haifa</center>
 
 
 ### EDUCATION
-2021-2022 | **Université Paris Sorbonne** | **École Pratique des Hautes Études (EPHE)**   
-	- Master degree 2  
-		- Biodiversity and Environment, Integrative Master of 		  Global Health and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier), and CRIOBE
-		  (Perpignan France and Mo’orea French Polynesia)  
-		  
-2019-2020 | **Université Paris Sorbonne** | **EPHE**   
-	- Master degree 1   
-		- Biodiversity and Environment, Integrative Master of Global Health 		  and Ecology with honours   
-		- Course Locations: Sorbonne (Paris), CNRS (Montpellier, Dinard), 		  and CRIOBE (Perpignan)  
+2023-Ongoing | **Haifa University** | **Marine Biology Department**   
+    - Master degree. 	   
 		
-2018-2019 | **Université de Lorraine** | **Institut Universitaire Technologique Nancy- Brabois**  
-	- Professional Bachelor degree   
-		- Continental Aquaculture and Aquariology with honours   
+2021-2022 | **Saint-Petersburg State University** | **Invertebrate Zoology department** |  
+	- Master degree. Only 1st course finished
 		
-2016-2017 | **Université de Montpellier** | **Continuing Education Department**   
-	- Technical Specialist Diploma (DU)  
-		- Aquaculture   
-		
-2013-2016 | **Lycée Jeanne Antide**   
-*2015-2016* Certificate of competence for the sale of non-domestic animals of captive wildlife (List E5-E7, TCVA)   
-*2013-2015* Professional baccalaureate Technician Sales Consultant in Pet Shop   
+2017-2021 | **Herzen state University**   
+    - Teaching Biology Bachelor degree  
 
 ### Professional Experience
-2022 | ***Universiy of Rhode Island - Rhode Island, USA***
-		- Supervisors - Dr. Hollie Putnam
-	- Effects of acute thermal stress and acute thermal priming on larvae of 	  the reef building coral *Pocillopora acuta*
-	- Genetic, functional and reproductive diversity of *Pocillopora sp.* in 	  the lagoon of Mo’orea.
 
-2021-2022 | ***Oregon State University – Tetiaroa, French Polynesia***
-		- Research Assistant - *Impacts of rat eradication on coral reef health*
-		- Supervisors - Drs. Rebecca Vega Thurber Hannah Epstein
-	- Coral surveys via transect, coral and water sampling for bacterial 	  analysis, multivariate and generalized linear statistical modeling in 	  R
-	
-2020-2021 | ***Tetiaroa Society– Tetiaroa, French Polynesia***
-		- Ranger 
-	- Marine Protected Area and Ecostation security patrols, fish 	  identification, field technical support to researchers (Lancaster 	  University, Oregon University) including spearfishing, snorkeling, 	  photogrammetry, drone piloting, 3D modeling, and rat trapping, 	  localization and eradication
-
-2019-2020 | ***Centre de Recherches Insulaires et Observatoires de l’Environnement (CRIOBE) Mo’orea French Polynesia***   
-	*Effects of coral bleaching on coral reef cover and composition*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral surveys via transect, coral photography, coral identification 	  and cover estimates, bleaching quantification, multivariate statistics 	  in R   
-	*Effects of ocean acidification on coral growth and metabolism*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- 3D scanning for volume, buoyant weight for bulk calcification, 	  Firesting Pyroscience oxygen optode respirometry   
-	*Effects of size of microfragmentation on coral growth*   
-		- Supervisors – Dr. Laetitia Hédouin   
-	- Coral fragment propagation of 10 species in the genera Acropora, 	  Montipora, Pocillopora, Porites, and Cyphastrea   
-
-2017 | ***Recif at Home***   
-	Coral Farmer   
-	- Supervisors – Mr. Boris Rota   
-	- Coral fragmentation, coral husbandry, coral health, species selection   
 
 ### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
 - Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
