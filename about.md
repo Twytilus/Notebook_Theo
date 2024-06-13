@@ -38,22 +38,20 @@ orangemortes@gmail.com
       PI: Doctor of Biological Sciences Olga V. Zaitseva
       No. 122031100281-5
 
-### THESES, REPORTS AND PUBLICATIONS IN PREPARATION
-- Harnay P, Huffmyer A, Fellous A, Hedouin L, Putnam HM (In Preparation) Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta*   
-- Effects of thermal stress and thermal priming on larvae of the reef building coral *Pocillopora acuta* - Master 2 Degree Thesis Report   
-- Évaluation du blanchissement corallien sur les coraux des lagons de Polynésie Française lors de l’épisode 2019 – Master 1 Degree Thesis Report   
-- Effet de l’acidification des océans sur les coraux scléractiniaires – Bachelor Degree Thesis Report   
-	   
-### SCHOLARSHIPS AND AWARDS
-- Master degree 1 and 2 Awarded with Honors   
-- Scholarships for academic excellence are not given in France, but are income based   
-- Technical Specialist Diploma (DU) Awarded with Honors   
+### THESES, REPORTS AND PUBLICATIONS
+- A checklist of Amoebozoa species from marine and brackish-water biotopes with notes on taxonomy, species concept and distribution patterns
+  K Alexander, V Ekaterina, V Fyodor; Protistology 15 (4), 220-273  2021
+- Coronamoeba villafranca gen. nov. sp. nov. (Amoebozoa, Dermamoebida) challenges the correlation of morphology and phylogeny in Amoebozoa
+  A Kudryavtsev, F Voytinsky, E Volkova; Scientific Reports 12 (1), 12541  2022
+- Description of a new Neoparamoeba aestuarina (Amoebozoa, Dactylopodida) strain from benthic biotopes of the White Sea (Northwestern Russia)
+  V Ekaterina, V Fyodor; Protistology 16 (3), 209-225  2022
+- Phylogeny, cryptic diversity, and benefits of investigating marine lobose amo-ebae (Amoebozoa)
+A Kudryavtsev, E Volkova, F Voytinsky; **in preparation**
+    
 
 ### TEACHING AND EDUCATION
-- Université de Lorraine 
-	- Coral Reef Informational Presentations to Bachelor students   
-	- Coral Reef Informational Presentations to Highschool students 
-- French/English Translation of educational materials in person and online   
+- Summers 2020-2021, pedagogical practice in Herzen University
+- 2021, teachers assistant at Center of Ecology and Biology "Krestovsky ostrov" at Saint Petersburg   
 
 ### CONFERENCE
 - Benthic Ecology Meeting - NH, Portsmouth, USA 
