@@ -1,6 +1,5 @@
 # Home assignment 3, RM-A Field trip
-![alt text](../images/test.jpg) 
-![alt text](../images/fieldtrip.JPG)
+![field trip](../images/fieldtrip.JPG)
 ## A new experience
 On the 23d of May, as part of the Research Methods course we had a field trip to the intertidal reef zone near kibbutz Sdot Yam and [**Morris Kahn Marine Research station**](https://med-lter.haifa.ac.il/).
 ### Part 1 - Guided tour
