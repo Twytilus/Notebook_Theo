@@ -1,5 +1,7 @@
-# Home assignment 3, RM-A Field trip  
-![alt text](image.png)
+# Home assignment 3, RM-A Field trip 
+ 
+<iframe src="https://drive.google.com/file/d/1oLCQsAqUV8sO5t9vWqnCTvNuyiIZ97fq/preview" width="640" height="480" allow="autoplay"></iframe>
+
 ## A new experience
 On the 23d of May, as part of the Research Methods course we had a field trip to the intertidal reef zone near kibbutz Sdot Yam and [**Morris Kahn Marine Research station**](https://med-lter.haifa.ac.il/).
 ### Part 1 - Guided tour
@@ -7,9 +9,9 @@ After arriving and receiving initial instructions we made our way to the beach. 
 ### Part 2 - Snorkeling for data
 Right after we used our snorkeling gear to look for more interesting things around the edges of the reef, as well as install a couple of [HOBO temperature and light level loggers](https://www.onsetcomp.com/) in 2 locations around the reef.
 ### Part 3 - Chlorophyll and PAM imaging 
-After drying out and washing the salt out of our hair, we watched and did an initial evaluation of PAM imaging of our *Padina pavonica* samples. PAM (photoacoustic microscopy) is a hybrid in vivo imaging technique that detects optical contrast in samples. In our case, we used it to measure chlorophyll fluorescence by exposing our algae samples to bright flashes of light periodically. The resulting fluorescence response was measured, with noticeable declines after especially strong exposure to light signifying overexposure.
+After drying out and washing the salt out of our hair, we watched and did an initial evaluation of PAM imaging of our *Padina pavonica* samples. PAM (Pulse Amplitude Modulation) machines provide information on the light reactions of photosynthesis and indirect information about the functioning of the Calvin cycle or ATP status. In our case, we used it to measure chlorophyll fluorescence by exposing our algae samples to bright flashes of light periodically. The resulting fluorescence response was measured, with noticeable declines after especially strong exposure to light signifying overexposure.
 
-![alt text](image-1.png)
+placeholder picture
 
 ### Part 4 - Example results
 | #  | Date-Time (Israel Daylight Time) | Ch:1 - Temperature   (°C) | Ch:2 - Light   (lux) |
@@ -44,6 +46,8 @@ Fig 1. Example of HOBO °C and lux data
 
 Fig 2. Example of our PAM imaging data. "Par" - strength of light-flash. F1-F9 - specific spots chosen on an algae sample, their fluorescence response.
 
-![alt text](image-2.png)
+placeholder image
 
 Fig 3. Fluorescence intensity chart (**work in progress**)
+
+placeholder image
