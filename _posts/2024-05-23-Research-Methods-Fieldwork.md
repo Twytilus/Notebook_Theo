@@ -9,7 +9,7 @@ Right after we used our snorkeling gear to look for more interesting things arou
 ### Part 3 - Chlorophyll and PAM imaging 
 After drying out and washing the salt out of our hair, we watched and did an initial evaluation of PAM imaging of our *Padina pavonica* samples. PAM (Pulse Amplitude Modulation) machines provide information on the light reactions of photosynthesis and indirect information about the functioning of the Calvin cycle or ATP status. In our case, we used it to measure chlorophyll fluorescence by exposing our algae samples to bright flashes of light periodically. The resulting fluorescence response was measured, with noticeable declines after especially strong exposure to light signifying overexposure.
 
-![placeholder picture](https://mw24.haifa.ac.il/pluginfile.php/317672/mod_resource/content/1/fv%20fm-ROI.PNG)
+![alt text](../images/fv%20fm-ROI.PNG)
 
 ### Part 4 - Example results
 | #  | Date-Time (Israel Daylight Time) | Ch:1 - Temperature   (°C) | Ch:2 - Light   (lux) |
@@ -21,7 +21,7 @@ After drying out and washing the salt out of our hair, we watched and did an ini
 | 85 | 05/23/2024 11:24:00              | 26.77                     | 25487.36             |
 | 86 | 05/23/2024 11:25:00              | 27.07                     | 47452.16             |
 
-Fig 1. Example of HOBO °C and lux data
+**Fig 1.** Example of HOBO °C and lux data
 
 | Date       | Time       | No. | PAR | F1     | F2     | F3     | F4     | F5     | F6     | F7     | F8     | F9     |
 | ---------- | ---------- | --- | --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -42,10 +42,8 @@ Fig 1. Example of HOBO °C and lux data
 | 23/05/2024 | 2:31:56 PM | 15  | 801 | 0.0686 | 0.0922 | 0.0745 | 0.1127 | 0.0284 | 0.0245 | 0.0343 | 0.0338 | 0.0426 |
 | 23/05/2024 | 2:34:59 PM | 16  | 926 | 0.0662 | 0.0902 | 0.0716 | 0.1059 | 0.0255 | 0.0221 | 0.0299 | 0.0299 | 0.0402 |
 
-Fig 2. Example of our PAM imaging data. "Par" - strength of light-flash. F1-F9 - specific spots chosen on an algae sample, their fluorescence response.
+**Fig 2.** Example of our PAM imaging data. "Par" - strength of light-flash. F1-F9 - specific spots chosen on an algae sample, their fluorescence response.
 
-placeholder image
+![alt text](../images/PAM-chart.JPG)
 
-Fig 3. Fluorescence intensity chart (**work in progress**)
-
-placeholder image
+**Fig 3.** Fluorescence intensity chart (**work in progress**)
