@@ -13,6 +13,7 @@ After drying out and washing the salt out of our hair, we watched and did an ini
 **Image 1.** Chosen fields on the *Padina pavonica* samples in a PAM machine interface
 
 ### Part 4 - Example results
+
 | #  | Date-Time (Israel Daylight Time) | Ch:1 - Temperature   (°C) | Ch:2 - Light   (lux) |
 | -- | -------------------------------- | ------------------------- | -------------------- |
 | 81 | 05/23/2024 11:20:00              | 26.25                     | 7421.44              |
