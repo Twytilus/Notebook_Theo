@@ -1,3 +1,10 @@
+---
+layout: post
+title: fieldwork
+date: "2024-05-23"
+categories: Protocols
+tags: Fieldwork
+---
 # Home assignment 3, RM-A Field trip
 ![field trip](../images/fieldtrip.JPG)
 ## A new experience
